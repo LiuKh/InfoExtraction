@@ -27,8 +27,11 @@ public class InfoExtraction {
         
         InformationRecognition ir = new InformationRecognition(training_file_address, testing_file_address);
         
-        //Test
-        String text = "agent : Hello Mr. Liu , how can I help you ? customer : Yes, I will have a trip to Suzhou next Tuesday . And I am in Beijing now . agent : When will you come back ? customer : Next weekend , Saturday or Sunday .";
+        //Test_1
+        //String text = "agent : Hello Mr. Liu , how can I help you ? customer : Yes, I will have a trip to Suzhou next Tuesday . And I am in Beijing now . agent : When will you come back ? customer : Next weekend , Saturday or Sunday .";
+        //ir.extract(text);
+        
+        //Test_2
         ir.extract();     
     }
     
