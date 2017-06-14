@@ -5,7 +5,6 @@
  */
 package infoextraction.InfoExtract.unstrcturedInfo;
 
-import infoextraction.InfoExtract.unstrcturedInfo.keywordFilter.KeywordFilter;
 import infoextraction.InfoExtract.unstrcturedInfo.patternSearchMachine.CrfPSMTrainer;
 import infoextraction.InfoExtract.unstrcturedInfo.patternSearchMachine.CrfPSMTrainerFactory;
 import infoextraction.InfoExtract.unstrcturedInfo.patternSearchMachine.PatternSearchMachine;
