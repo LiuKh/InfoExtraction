@@ -1,0 +1,10 @@
+agent: Hello Mr. Liu, how can I help you?
+customer: Yes, I will have a trip to Shanghai next Tuesday.
+agent: Where are you now?
+customer: I am in Beijing.
+agent: When will you come back?
+customer: Next weekend, Saturday or Sunday.
+agent: Are you also looking for a hotel to stay in when you are in Shanghai?
+customer: Yes, I would like a hotel near Wai Tan, in HuangPu district.
+customer: Can you find some flights and hotels for me? I prefer a flight in the morning.
+agent: Yes, I am sending you some flights and hotels for your trip.
